@@ -23,10 +23,9 @@ After checking the system, the team lead suggested looking into Service Oriented
 
 ## Benefits of SOA
 
-* The system becomes slow.
-* Scaling the system is a challenge due to its current design.
-* A single failure can affect the entire system.
-* Changes are slow and risky to update.
+* The system becomes faster and more scalable.
+* Services can be scaled independently based on need.
+* A failure in one service does not affect the whole system.
 
 ## Proposed System Design
 
