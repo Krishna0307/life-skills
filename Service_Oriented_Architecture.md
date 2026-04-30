@@ -7,40 +7,40 @@ After checking the system, the team lead suggested looking into Service Oriented
 
 ## Problem Statement
 
-1.The system becomes slow.
-2.Scaling the system is a challenge due to its current design.
-3.A single failure can affect the entire system.
-4.Changes are slow and risky to update.
+* The system becomes slow.
+* Scaling the system is a challenge due to its current design.
+* A single failure can affect the entire system.
+* Changes are slow and risky to update.
 
 ## Service Oriented Architecture Overview
 
-1.Service Oriented Architecture is a design method.
-2.The application is divided into small independent services.
-3.Each service handles a specific business task.
-4.Services communicate with each other using APIs.
-5.Services are loosely connected, not tightly linked.
-6.Each service can be developed separately.
+* Service Oriented Architecture is a design method.
+* The application is divided into small independent services.
+* Each service handles a specific business task.
+* Services communicate with each other using APIs.
+* Services are loosely connected, not tightly linked.
+* Each service can be developed separately.
 
 ## Benefits of SOA
 
-1.The system becomes slow.
-2.Scaling the system is a challenge due to its current design.
-3.A single failure can affect the entire system.
-4.Changes are slow and risky to update.
+* The system becomes slow.
+* Scaling the system is a challenge due to its current design.
+* A single failure can affect the entire system.
+* Changes are slow and risky to update.
 
 ## Proposed System Design
 
-1.User Service handles login and user profile details.
-2.Payment Service manages money transactions.
-3.Order Service takes care of customer orders.
-4.Notification Service sends messages and updates.
+* User Service handles login and user profile details.
+* Payment Service manages money transactions.
+* Order Service takes care of customer orders.
+* Notification Service sends messages and updates.
 
 ## Challenges
 
-1.Increased system complexity.
-2.Need for proper service communication design.
-3.Network latency between services.
-4.Requirement for monitoring and security mechanisms.
+* Increased system complexity.
+* Need for proper service communication design.
+* Network latency between services.
+* Requirement for monitoring and security mechanisms.
 
 ## Conclusion
 
